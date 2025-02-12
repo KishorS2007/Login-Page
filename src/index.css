@@ -1,0 +1,30 @@
+
+*{
+  background-color: beige;
+  /* overflow-x: hidden; */
+}
+
+table{
+  table-layout: auto;
+  width: 200px;
+  height: 100px;
+  margin:10vh auto ;
+  text-align: center;
+}
+table input{
+  text-align: center;
+  width: 100px;
+}
+th,td{
+  border: 1px solid black;
+  padding:1vh 3vw ;
+}
+
+.boxes input ,.boxes div{
+  text-align: center;
+  
+}
+h1{
+  text-align: center;
+  margin: 10vh;
+}
