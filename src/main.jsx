@@ -2,8 +2,8 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
 import {createBrowserRouter,RouterProvider} from 'react-router-dom'
-import Login from './Login'
-import Form from './Form'
+import Login from './Login.jsx'
+import Form from './Form.jsx'
 
 const router = createBrowserRouter([
   {
