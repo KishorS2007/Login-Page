@@ -7,11 +7,11 @@ import Form from './Form.jsx'
 
 const router = createBrowserRouter([
   {
-    path:"/",
+    path:"/Login-Page/",
     element:<Login/>
   },
   {
-    path:"/form",
+    path:"/Login-Page/form/",
     element:<Form/>
   }
 ])
