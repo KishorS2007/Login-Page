@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://shinchan2007.github.io/Login-Page/",
+  "homepage": "https://kishorS2007.github.io/Login-Page/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
