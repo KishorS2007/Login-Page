@@ -26,7 +26,7 @@ function Login(){
         if(Email==="hi123@gmail.com"){
             if(Password==="12345"){
                 if(IsChecked==true){
-                    navigate("/Login-Page/form");
+                    navigate("/Login-Page/form/");
                 }
             }
         }
